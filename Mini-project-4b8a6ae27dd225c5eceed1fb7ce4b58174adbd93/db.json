@@ -1,0 +1,14 @@
+{
+  "faculties": [
+    {
+      "id": 1,
+      "username": "rahul",
+      "password": "sunflower"
+    },
+    {
+      "id":2,
+      "username": "girish",
+      "password":"password"
+    }
+  ]
+}
